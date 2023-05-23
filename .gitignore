@@ -161,4 +161,4 @@ cython_debug/
 
 # additional info
 # for reference check https://www.atlassian.com/git/tutorials/saving-changes/gitignore
-data/
+#data/
